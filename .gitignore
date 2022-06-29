@@ -1,0 +1,9 @@
+.vscode/
+logs/
+pawno/
+ELRP-1.zip
+libmariadb.dll
+log-core.dll
+.exe
+server.cfg
+server_log.txt
