@@ -1,0 +1,293 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:08:02] filterscripts = ""  (string)
+[17:08:02] 
+[17:08:02] Server Plugins
+[17:08:02] --------------
+[17:08:02]  Loading plugin: sscanf.so
+[17:08:03]   Failed.
+[17:08:03]  Loading plugin: streamer.so
+[17:08:03]   Failed.
+[17:08:03]  Loaded 0 plugins.
+
+[17:08:03] 
+[17:08:03] Filterscripts
+[17:08:03] ---------------
+[17:08:03]   Loaded 0 filterscripts.
+
+[17:08:03] Script[gamemodes/ELRP.amx]: Run time error 19: "File or function is not found"
+[17:08:03] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:20:36] filterscripts = ""  (string)
+[16:20:36] 
+[16:20:36] Server Plugins
+[16:20:36] --------------
+[16:20:36]  Loading plugin: sscanf
+[16:20:37] 
+
+[16:20:37]  ===============================
+
+[16:20:37]       sscanf plugin loaded.     
+
+[16:20:37]          Version:  2.8.3        
+
+[16:20:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:20:37]  ===============================
+
+[16:20:37]   Loaded.
+[16:20:37]  Loading plugin: streamer
+[16:20:37] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:20:37]   Loaded.
+[16:20:37]  Loading plugin: mysql
+[16:20:38]   Failed.
+[16:20:38]  Loaded 2 plugins.
+
+[16:20:38] 
+[16:20:38] Filterscripts
+[16:20:38] ---------------
+[16:20:38]   Loaded 0 filterscripts.
+
+[16:20:38] Script[gamemodes/ELRP.amx]: Run time error 19: "File or function is not found"
+[16:20:38] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:21:13] filterscripts = ""  (string)
+[16:21:13] 
+[16:21:13] Server Plugins
+[16:21:13] --------------
+[16:21:13]  Loading plugin: sscanf
+[16:21:13] 
+
+[16:21:13]  ===============================
+
+[16:21:13]       sscanf plugin loaded.     
+
+[16:21:13]          Version:  2.8.3        
+
+[16:21:13]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:21:13]  ===============================
+
+[16:21:13]   Loaded.
+[16:21:13]  Loading plugin: streamer
+[16:21:13] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:21:13]   Loaded.
+[16:21:13]  Loading plugin: mysql
+[16:21:14]   Failed.
+[16:21:14]  Loaded 2 plugins.
+
+[16:21:14] 
+[16:21:14] Filterscripts
+[16:21:14] ---------------
+[16:21:14]   Loaded 0 filterscripts.
+
+[16:21:14] Script[gamemodes/ELRP.amx]: Run time error 19: "File or function is not found"
+[16:21:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:21:34] filterscripts = ""  (string)
+[16:21:34] 
+[16:21:34] Server Plugins
+[16:21:34] --------------
+[16:21:34]  Loading plugin: sscanf
+[16:21:34] 
+
+[16:21:34]  ===============================
+
+[16:21:34]       sscanf plugin loaded.     
+
+[16:21:34]          Version:  2.8.3        
+
+[16:21:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:21:34]  ===============================
+
+[16:21:34]   Loaded.
+[16:21:34]  Loading plugin: streamer
+[16:21:34] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:21:34]   Loaded.
+[16:21:34]  Loading plugin: mysql
+[16:21:34]   Failed.
+[16:21:34]  Loaded 2 plugins.
+
+[16:21:34] 
+[16:21:34] Filterscripts
+[16:21:34] ---------------
+[16:21:34]   Loaded 0 filterscripts.
+
+[16:21:34] Script[gamemodes/ELRP.amx]: Run time error 19: "File or function is not found"
+[16:21:34] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:24:18] filterscripts = ""  (string)
+[16:24:18] 
+[16:24:18] Server Plugins
+[16:24:18] --------------
+[16:24:18]  Loading plugin: sscanf
+[16:24:18] 
+
+[16:24:18]  ===============================
+
+[16:24:18]       sscanf plugin loaded.     
+
+[16:24:18]          Version:  2.8.3        
+
+[16:24:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:24:18]  ===============================
+
+[16:24:18]   Loaded.
+[16:24:18]  Loading plugin: streamer
+[16:24:18] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:24:18]   Loaded.
+[16:24:18]  Loading plugin: mysql
+[16:24:19]  >> plugin.mysql: R41-4 successfully loaded.
+[16:24:19]   Loaded.
+[16:24:19]  Loaded 3 plugins.
+
+[16:24:19] 
+[16:24:19] Filterscripts
+[16:24:19] ---------------
+[16:24:19]   Loaded 0 filterscripts.
+
+[16:24:19] Script[gamemodes/ELRP.amx]: Run time error 19: "File or function is not found"
+[16:24:19] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:25:02] filterscripts = ""  (string)
+[16:25:02] 
+[16:25:02] Server Plugins
+[16:25:02] --------------
+[16:25:02]  Loading plugin: sscanf
+[16:25:02] 
+
+[16:25:02]  ===============================
+
+[16:25:02]       sscanf plugin loaded.     
+
+[16:25:02]          Version:  2.8.3        
+
+[16:25:02]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:25:02]  ===============================
+
+[16:25:02]   Loaded.
+[16:25:02]  Loading plugin: streamer
+[16:25:02] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:25:02]   Loaded.
+[16:25:02]  Loading plugin: mysql
+[16:25:02]  >> plugin.mysql: R41-4 successfully loaded.
+[16:25:02]   Loaded.
+[16:25:02]  Loading plugin: Whirlpool
+[16:25:02]  
+[16:25:02]  ==================
+[16:25:02]  
+[16:25:02]   Whirlpool loaded
+[16:25:02]  
+[16:25:02]  ==================
+[16:25:02]  
+[16:25:02]   Loaded.
+[16:25:02]  Loaded 4 plugins.
+
+[16:25:02] 
+[16:25:02] Filterscripts
+[16:25:02] ---------------
+[16:25:02]   Loaded 0 filterscripts.
+
+[16:25:02] AMX (44542392) loaded
+[16:25:02]  
+[16:25:02]  ========================================== 
+[16:25:02]  |                                        | 
+[16:25:02]  |    Generating code, this may take a    | 
+[16:25:02]  |           little bit of time.          | 
+[16:25:02]  |                                        | 
+[16:25:02]  |             Please wait...             | 
+[16:25:02]  |                                        | 
+[16:25:02]  | You can disable this message with:     | 
+[16:25:02]  |                                        | 
+[16:25:02]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[16:25:02]  |                                        | 
+[16:25:02]  ========================================== 
+[16:25:02]  |                                        | 
+[16:25:02]  | Note that this code generation works   | 
+[16:25:02]  | best with the JIT plugin, which you    | 
+[16:25:02]  | are not currently using.  Get it here: | 
+[16:25:02]  |                                        | 
+[16:25:02]  |        https://git.io/jit-plugin       | 
+[16:25:02]  |                                        | 
+[16:25:02]  ========================================== 
+[16:25:02]  
+[16:25:02] *** YSI Error: YSI code cache write failed
+[16:25:02]  
+[16:25:02]  
+[16:25:02]  
+[16:25:02]  ========================================== 
+[16:25:02]  |                                        | 
+[16:25:02]  |         YSI version 5.04.0102          | 
+[16:25:02]  |         By Alex "Y_Less" Cole          | 
+[16:25:02]  |                                        | 
+[16:25:02]  | You can disable this message with:     | 
+[16:25:02]  |                                        | 
+[16:25:02]  |   #define YSI_NO_VERSION_CHECK         | 
+[16:25:02]  |                                        | 
+[16:25:02]  ========================================== 
+[16:25:02]  

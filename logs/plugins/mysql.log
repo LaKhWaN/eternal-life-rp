@@ -1,0 +1,27 @@
+[16:25:02] [INFO] changed log level from 'warning, error' to 'debug, info, warning, error'
+[16:25:02] [DEBUG] mysql_connect("localhost", "lakhwan", "*****", "lakhwan", 0)
+[16:25:02] [DEBUG] CHandleManager::Create(this=0x647d58, host='localhost', user='lakhwan', pass='****', db='lakhwan', options=0x63cfe0)
+[16:25:02] [INFO] Creating new connection handle...
+[16:25:02] [DEBUG] CConnection::CConnection(this=0x64dd98, host='localhost', user='lakhwan', passw='****', db='lakhwan', options=0x63cfe0)
+[16:25:07] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[16:25:07] [DEBUG] CConnection::CConnection(this=0x5555020, host='localhost', user='lakhwan', passw='****', db='lakhwan', options=0x63cfe0)
+[16:25:11] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[16:25:11] [DEBUG] CThreadedConnection::WorkerFunc(this=0x5555020, connection=0x5555020)
+[16:25:11] [DEBUG] CThreadedConnection::CThreadedConnection(this=0x5555020, connection=0x5555020)
+[16:25:11] [DEBUG] CConnectionPool::CConnectionPool(size=2, this=0x64d898)
+[16:25:11] [DEBUG] CConnection::CConnection(this=0x572b020, host='localhost', user='lakhwan', passw='****', db='lakhwan', options=0x63cfe0)
+[16:25:15] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[16:25:15] [DEBUG] CThreadedConnection::WorkerFunc(this=0x572b020, connection=0x572b020)
+[16:25:15] [DEBUG] CThreadedConnection::CThreadedConnection(this=0x572b020, connection=0x572b020)
+[16:25:15] [DEBUG] CConnection::CConnection(this=0x58f3020, host='localhost', user='lakhwan', passw='****', db='lakhwan', options=0x63cfe0)
+[16:25:19] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[16:25:19] [DEBUG] CThreadedConnection::WorkerFunc(this=0x58f3020, connection=0x58f3020)
+[16:25:19] [DEBUG] CThreadedConnection::CThreadedConnection(this=0x58f3020, connection=0x58f3020)
+[16:25:19] [INFO] Connection handle with id '1' successfully created.
+[16:25:19] [DEBUG] CHandleManager::Create - new handle = 0x63c350
+[16:25:19] [DEBUG] mysql_connect: return value: '1'
+[16:25:19] [DEBUG] mysql_errno(1)
+[16:25:19] [DEBUG] CHandle::GetErrorId(this=0x63c350)
+[16:25:19] [DEBUG] CConnection::GetError(this=0x64dd98, connection=0x659458)
+[16:25:19] [DEBUG] CHandle::GetErrorId - return value: true, error id: '2002', error msg: 'Can't connect to MySQL server on 'localhost' (10061)'
+[16:25:19] [DEBUG] mysql_errno: return value: '2002'
